@@ -27,3 +27,8 @@ La documentazione del progetto segue il ciclo di vita standard della progettazio
 * **RDBMS:** PostgreSQL
 * **Progettazione:** UML (Class Diagram Relazionale)
 * **Linguaggio:** SQL / PL/pgSQL
+
+## Autori
+*   Gabriella Scaraglia [N86005338]
+*   Bartolomeo Russo [N86005210]
+*   Sabrina Oliva [N86004167]
