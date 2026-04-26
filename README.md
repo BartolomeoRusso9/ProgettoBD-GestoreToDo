@@ -1,4 +1,5 @@
 # Gestore ToDo - Progetto Basi di Dati
+![Type](https://img.shields.io/badge/type-University%20Project-orange)
 
 **Database Relazionale in PostgreSQL per la gestione di task personali e condivisi.**
 
