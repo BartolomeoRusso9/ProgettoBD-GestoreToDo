@@ -53,5 +53,3 @@ INSERT INTO Condivisione (utente_id, task_id, ruolo, permesso) VALUES
                                                                    (1, 4, 'Ricevente', 'Lettura/Scrittura'),
                                                                    (2, 1, 'Ricevente', 'Lettura'),
                                                                    (3, 2, 'Autore', 'Proprietario');
-
-SELECT * FROM Condivisione ORDER BY utente_id;
